@@ -11,3 +11,8 @@ navBtn.onclick = () => {
     }
 }
 
+AOS.init({
+    // if need animations works once
+    // once: true
+});
+
